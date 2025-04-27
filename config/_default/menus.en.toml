@@ -1,0 +1,36 @@
+# config/_default/menus.en.toml
+
+[[main]]
+  name = "Home"
+  url = "/"
+  weight = 1
+
+[[main]]
+  name = "About me"
+  url = "/about/"
+  weight = 2
+
+[[main]]
+  name = "Contact"
+  url = "/contact/"
+  weight = 5
+
+[[main]]
+  name = "GitHub"
+  url = "https://github.com/Piuliss"
+  weight = 6
+  [main.params]
+    icon = "github"
+    showName = false
+    target = "_blank"
+
+[[main]]
+  identifier = "search"
+  weight = 7
+  [main.params]
+    action = "search"
+    icon = "search"
+
+[[footer]]
+  name = "Privacy"
+  pageRef = "privacy"

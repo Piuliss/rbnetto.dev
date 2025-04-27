@@ -1,0 +1,34 @@
+baseURL = "https://rbnetto.dev/"
+title = "Raúl Benítez Netto – Threat Analyst & Full-Stack Dev"
+theme = "congo"
+defaultContentLanguage = "es"
+enableRobotsTXT = true
+summaryLength = 0
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[languages]
+  [languages.es]
+    languageName = "Español"
+    weight = 1
+    title = "Raúl Benítez Netto"
+    description = "Portafolio profesional de Raúl Benítez Netto: especialista en ciberseguridad y desarrollo web."
+  [languages.en]
+    languageName = "English"
+    weight = 2
+    title = "Raúl Benítez Netto"
+    description = "Professional portfolio of Raúl Benítez Netto: cybersecurity specialist and web developer."
+
+[params]
+  description = "Portafolio de Raúl Benítez Netto: especialista en respuesta a incidentes, analista de amenazas y desarrollador full-stack."
+  colorScheme = "auto"
+  enableSearch = true
+  mainSections = []
+  favicon = "/img/avatar.jpg"
+
+  [params.author]
+    name = "Raúl Benítez Netto"
+    email = "raulbeni@gmail.com"
+    image = "/img/avatar.jpg"
+
