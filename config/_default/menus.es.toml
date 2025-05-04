@@ -1,7 +1,7 @@
 # config/_default/menus.es.toml
 
 [[main]]
-  name = "Inicio"
+  name = "Home"
   url = "/"
   weight = 1
 
@@ -11,32 +11,22 @@
   weight = 2
 
 [[main]]
-  name = "Blog"
-  pageRef = "posts"
-  weight = 3
-
-[[main]]
-  name = "CV"
-  url = "/CV/"
-  weight = 4
-
-[[main]]
   name = "Contacto"
   url = "/contact/"
   weight = 5
 
 [[main]]
   name = "GitHub"
-  url = "https://github.com/jpanther/congo"
-  weight = 30
+  url = "https://github.com/Piuliss"
+  weight = 6
   [main.params]
     icon = "github"
     showName = false
     target = "_blank"
 
 [[main]]
-  identifier = "search"
-  weight = 99
+  identifier = "Buscar"
+  weight = 7
   [main.params]
     action = "search"
     icon = "search"

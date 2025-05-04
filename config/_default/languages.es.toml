@@ -1,0 +1,23 @@
+languageCode = "es"
+languageName = "Spanish"
+languageDirection = "ltr"
+weight = 1
+
+title = "Raul B. Netto"
+
+[params]
+  dateFormat = "2 January 2006"
+  description = "Especialista en ciberseguridad, experto en respuesta a incidentes y desarrollador web. Más de 7 años en ciberseguridad y 12 años como desarrollador full-stack."
+
+[params.author]
+  name = "Raul B. Netto"
+  image = "img/avatar.jpg"
+  headline = "Especialista en ciberseguridad, experto en respuesta a incidentes y desarrollador web. Más de 7 años en ciberseguridad y 12 años como desarrollador full-stack."
+  bio = "Especialista en ciberseguridad, experto en respuesta a incidentes y desarrollador web. Más de 7 años en ciberseguridad y 12 años como desarrollador full-stack."
+  links = [
+    { email = "mailto:raulbeni@gmail.com" },
+    { x-twitter = "https://x.com/rbnetto13" },
+    { linkedin = "https://www.linkedin.com/in/rauliss/" },
+    { medium = "https://blog.rbnetto.dev" },
+    { github = "https://github.com/Piuliss" },
+  ]
