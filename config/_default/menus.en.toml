@@ -11,6 +11,15 @@
   weight = 2
 
 [[main]]
+  name = "Blog"
+  url = "https://blog.rbnetto.dev"
+  weight = 6
+  [main.params]
+    icon = "medium"
+    showName = false
+    target = "_blank"
+
+[[main]]
   name = "Contact"
   url = "/contact/"
   weight = 5
