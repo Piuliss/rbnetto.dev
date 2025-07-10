@@ -10,5 +10,5 @@ Mi visión integral como desarrollador y analista de amenazas me permite aportar
 - **Especialidades:** Respuesta a incidentes, DevSecOps, desarrollo web seguro, automatización, liderazgo técnico.
 - **Idiomas:** Español (nativo), Inglés (avanzado).
 
-[Descarga mi CV de Desarrollador](../cv/)  
-[Descarga mi CV de Threat Analyst](../cv/)
+#[Descarga mi CV de Desarrollador](../cv/)  
+#[Descarga mi CV de Threat Analyst](../cv/)
